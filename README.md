@@ -8,9 +8,26 @@ Authors, releasers and maintainers: Dr. Andrea Loddo, Prof. Cecilia Di Ruberto -
 
 NOTE: please cite one of the following pubblication in case of using these images in your own work:
 
-# Todo Journal of Imaging
 
-@article{Loddo2021,
+@Article{Loddo2021JI,
+AUTHOR = {Loddo, Andrea and Di Ruberto, Cecilia},
+TITLE = {On the Efficacy of Handcrafted and Deep Features for Seed Image Classification},
+JOURNAL = {Journal of Imaging},
+VOLUME = {7},
+YEAR = {2021},
+NUMBER = {9},
+ARTICLE-NUMBER = {171},
+URL = {https://www.mdpi.com/2313-433X/7/9/171},
+PubMedID = {34564097},
+ISSN = {2313-433X},
+DOI = {10.3390/jimaging7090171}
+}
+
+
+
+
+
+@article{Loddo2021CEA,
 title = {A novel deep learning based approach for seed image classification and retrieval},
 journal = {Computers and Electronics in Agriculture},
 volume = {187},
